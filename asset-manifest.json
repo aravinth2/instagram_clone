@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/instagram_clone/static/css/main.6f3b170f.css",
+    "main.js": "/instagram_clone/static/js/main.05cc1df4.js",
+    "static/media/insta.png": "/instagram_clone/static/media/insta.0234e0bf8fae139480ea.png",
+    "static/media/lesson1.webp": "/instagram_clone/static/media/lesson1.27ff311fca005dfd0a53.webp",
+    "static/media/lesson3.webp": "/instagram_clone/static/media/lesson3.4b485f834c8dc551bc5d.webp",
+    "static/media/lesson5.webp": "/instagram_clone/static/media/lesson5.f8751eeb3539c382acf0.webp",
+    "static/media/lesson4.webp": "/instagram_clone/static/media/lesson4.88b05e643e0b465de219.webp",
+    "static/media/lesson10.webp": "/instagram_clone/static/media/lesson10.0cbf0932318252cbd761.webp",
+    "static/media/logo1.jpg": "/instagram_clone/static/media/logo1.464bdef56ad20ee84f60.jpg",
+    "static/media/lesson7.webp": "/instagram_clone/static/media/lesson7.b69e91232a2ead101c71.webp",
+    "static/media/logo7.jpg": "/instagram_clone/static/media/logo7.5a85e03bc9d7316d7c4c.jpg",
+    "static/media/lesson8.webp": "/instagram_clone/static/media/lesson8.815e596840cb353ba008.webp",
+    "static/media/lesson6.webp": "/instagram_clone/static/media/lesson6.f5c97768835143a9ad66.webp",
+    "static/media/lesson2.webp": "/instagram_clone/static/media/lesson2.5509eeb92a0752638352.webp",
+    "static/media/logo2.jpg": "/instagram_clone/static/media/logo2.8aa212eac800824f0133.jpg",
+    "static/media/logo5.jpg": "/instagram_clone/static/media/logo5.64c70e88e62330c5e25a.jpg",
+    "static/media/lesson9.webp": "/instagram_clone/static/media/lesson9.f80de91d5e3e0691b300.webp",
+    "static/media/logo6.jpg": "/instagram_clone/static/media/logo6.286d0ec676d44d00bf3b.jpg",
+    "static/media/logo4.jpg": "/instagram_clone/static/media/logo4.4aaa0fd013bb780fbb28.jpg",
+    "static/media/profile.jpg": "/instagram_clone/static/media/profile.cc46b8c27e39c995d700.jpg",
+    "index.html": "/instagram_clone/index.html",
+    "main.6f3b170f.css.map": "/instagram_clone/static/css/main.6f3b170f.css.map",
+    "main.05cc1df4.js.map": "/instagram_clone/static/js/main.05cc1df4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3b170f.css",
+    "static/js/main.05cc1df4.js"
+  ]
+}
