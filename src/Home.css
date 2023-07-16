@@ -1,0 +1,32 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+}
+.navpage{
+    flex: 1.7;
+    background: #ffffff;
+    border-right: 0.2px solid #efefef;
+}
+.mainpage{
+    flex: 5.8;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 200;
+    border-right: 0.2px solid #efefef;
+}
+.sugession{
+    flex: 2.5;
+    background-color: rgb(255, 255, 255);
+}
+
+
+@media (min-width:600px){
+    
+    .home{
+        display: flex;
+        flex-direction: row;
+    }
+}
